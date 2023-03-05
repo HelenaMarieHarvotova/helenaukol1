@@ -1,0 +1,135 @@
+
+h1 {
+  font-size: 250;
+}
+h2 {
+  font-size: 100;
+}
+
+h3 {
+  font-size: 40;
+}
+
+h2, h3, a {
+ color: #329a9d
+}
+
+p{
+  font-size: 40;
+}
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: teal;
+   
+   
+}
+
+header {
+  padding: 30px 15%;
+  overflow: auto;
+}
+
+footer {
+  padding: 30px 15%;
+  overflow: auto;
+}
+
+/* ------------------------------------------------*/
+
+   .mojefoto {
+    background-color: aquamarine;
+    padding: 30px 15%;
+    overflow: auto;
+   }
+   .mojefoto img {
+    border-radius: 10% 0 10% 0;
+    width: 200px;
+    margin: 20px;
+    float: left;
+  }
+/* ------------------------------------------------*/
+   .ikonysocialnisite {
+    background-color: white;
+    padding: 30px 15%;
+    overflow: auto;
+   }
+   .ikonysocialnisite img{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    }
+
+
+   /* ------------------------------------------------*/
+   .mojereference {
+    background-color: aquamarine;
+    padding: 30px 15%;
+    overflow: auto;
+   }
+   .mojereference td{
+    width: 300px;
+   }
+
+
+/* ------------------------------------------------*/
+   .technickeumy{
+    background-color: white;
+    padding: 30px 15%;
+    overflow: auto;
+   }
+
+
+
+   /* ------------------------------------------------*/
+   .pracovnizkusenosti{
+    background-color: aquamarine;
+    padding: 30px 15%;
+    overflow: auto;
+   }
+
+   .pracovnizkusenosti td{
+    width: 20% 20% 60%;
+   }
+
+
+
+
+   /* ------------------------------------------------*/
+   .vzdelani{
+    background-color: aquamarine;
+    padding: 30px 15%;
+    overflow: auto;
+   }
+
+
+
+
+   /* ------------------------------------------------*/
+   .ucastnasoutezich {
+    background-color: white;
+    padding: 30px 15%;
+    overflow: auto;
+   }
+
+
+
+   /* ------------------------------------------------*/
+   .souteznirank344{
+    background-color: white;
+    padding: 30px 15%;
+    overflow: auto;
+   }
+
+
+
+
+   /* ------------------------------------------------*/
+
+
+   
+   .fotoaquascaping img {
+    border-radius: 10% 0 10% 0;
+    width: 800px;
+    padding: 30px 15%;
+  }

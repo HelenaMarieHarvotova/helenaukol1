@@ -1,0 +1,21 @@
+
+
+#282425 - barva textu, aktivních odkazů, pozadí menu a patičky
+#756158 - barva nadpisů, odkazů a pozadí aktivního menu
+#9c8175 - linka nad menu
+#fff1e6 - pozadí 1 sekcí O mně a Turistický průvodce
+#f9e3d0 - pozadí 2 sekcí Fotogalerie a Kontakt
+
+
+
+
+Teal
+#008080  barva textu, aktivních odkazů, pozadí menu a patičky
+#008080 - barva nadpisů, odkazů a pozadí aktivního menu
+
+Aqua
+#00FFFF
+
+Silver 
+#C0C0C0  pozadí 2 sekcí Fotogalerie a Kontakt
+#fff1e6 - pozadí 1 sekcí O mně a Turistický průvodce
